@@ -12,8 +12,6 @@ Also: scraping data, structuring chaos, and tweaking LLM prompts until they stop
 
 ### 📚 Currently Deep Diving Into:
 - 🧬 Advanced ML & DL techniques
-- 🔊 Audio signal processing (because vibes ≠ just decibels)
-- 🚀 Taking AI prototypes from Colab to production
 
 ### 🔍 Find Me Here:
 - [LinkedIn](https://www.linkedin.com/in/kanakaamin)  
